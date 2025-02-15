@@ -1,7 +1,4 @@
 #include<iostream>
-/*#include<cstdio>
-#include<algorithm>
-#include<cmath>*/
 #include<vector>
 using namespace std;
 void solve(vector<vector<int>>&grid,int x,int y,int n,vector<vector<bool>>&visited,string path)
